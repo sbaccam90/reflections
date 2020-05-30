@@ -24,6 +24,9 @@ version to show. Branch's feature allow to have multiple versions of the code.
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams establish the parenting relationship of each git branch. It is useful
+to see how the code evolves and to detect unreachable paths.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
