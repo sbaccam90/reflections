@@ -35,3 +35,8 @@ two roots.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Git automatically commit makes the work easier by comparing the lines and detecting
+possible changes and conflicts. However, merging manually even if it is tedious is
+safer, It hink fit merge is nice to have and use with some guidelines that reduce
+the conflicts.
