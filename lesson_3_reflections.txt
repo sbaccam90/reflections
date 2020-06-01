@@ -35,4 +35,5 @@ them coded.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+In that way I can always have a master branch that works, and at the same time I
+can test modifications or new features on different branches.
