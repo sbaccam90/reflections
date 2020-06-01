@@ -27,7 +27,10 @@ It can be created another branch with fetch, review changes and solve conflicts.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+It is good to have something like a share folder. The solution would require
+a lot of rules and guidelines for avoiding conflicts, and may be a lot of emails.
+Github is an easier way since it already defines a lot of that rules and have
+them coded.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
